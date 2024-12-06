@@ -10,11 +10,9 @@ I am Chester, a Computer Science undergraduate at Nanyang Technological Universi
 
 ## Work Experience
 
-Jun 2024 — Dec 2024: Software Engineering Intern at Fling.AI
-
-Sep 2019 — Feb 2020: Software Engineering Intern at Singtel
-
-Aug 2020 — Oct 2020: Instructor for Code in the Community
+- Jun 2024 — Dec 2024: Software Engineering Intern at Fling.AI
+- Sep 2019 — Feb 2020: Software Engineering Intern at Singtel
+- Aug 2020 — Oct 2020: Instructor for Code in the Community
 
 ## Toolbox
 
