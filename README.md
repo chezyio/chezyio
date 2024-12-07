@@ -5,8 +5,8 @@ I am Chester, a Computer Science undergraduate at Nanyang Technological Universi
 -   📷 &nbsp; Strong interest in Computer Vision
 -   🧠 &nbsp; Exploring Agentic Reasoning and Workflows
 -   ☁️ &nbsp; Certified AWS Solutions Architect
--   🌐 &nbsp; Full-stack Web using Next.js and Node.js
--   💻 &nbsp; Like to work with Python and TypeScript
+-   🌐 &nbsp; Full-stack web using Next.js and Node.js
+-   💻 &nbsp; Likes to work with Python and TypeScript
 
 ## Work Experience
 
