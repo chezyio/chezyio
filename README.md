@@ -10,9 +10,9 @@ I am Chester, a Computer Science undergraduate at Nanyang Technological Universi
 
 ## Work Experience
 
-- Jun 2024 — Dec 2024: Software Engineering Intern at Fling.AI
-- Sep 2019 — Feb 2020: Software Engineering Intern at Singtel
-- Aug 2020 — Oct 2020: Instructor for Code in the Community
+-   Jun 2024 — Dec 2024: Software Engineering Intern at Fling.AI
+-   Sep 2019 — Feb 2020: Software Engineering Intern at Singtel
+-   Aug 2020 — Oct 2020: Instructor for Code in the Community
 
 ## Toolbox
 
@@ -22,6 +22,7 @@ I am Chester, a Computer Science undergraduate at Nanyang Technological Universi
 ![gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
+![docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -42,6 +43,3 @@ I am Chester, a Computer Science undergraduate at Nanyang Technological Universi
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
-
