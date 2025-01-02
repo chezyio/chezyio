@@ -43,3 +43,4 @@ I am Chester, a Computer Science undergraduate at Nanyang Technological Universi
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![github](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=GitHub&logoColor=white)
