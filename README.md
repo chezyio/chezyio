@@ -7,6 +7,7 @@ I am Chester, a Computer Science undergraduate at Nanyang Technological Universi
 -   ☁️ &nbsp; Certified AWS Solutions Architect
 -   🌐 &nbsp; Full-stack web using Next.js and Node.js
 -   💻 &nbsp; Likes to work with Python and TypeScript
+-   ⌨️ &nbsp; Arch Linux User
 
 ## Work Experience
 
