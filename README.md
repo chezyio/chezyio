@@ -8,6 +8,8 @@ I am Chester, a Computer Science undergraduate at Nanyang Technological Universi
 -   🌐 &nbsp; Full-stack web using Next.js and Node.js
 -   💻 &nbsp; Likes to work with Python and TypeScript
 -   ⌨️ &nbsp; Arch Linux User
+-   🗻 &nbsp; Enjoys mountaineering and hiking
+
 
 ## Work Experience
 
