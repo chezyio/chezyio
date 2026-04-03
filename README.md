@@ -1,21 +1,11 @@
 ## Hello World!
 
-I am Chester, a Computer Science undergraduate at Nanyang Technological University specializing in Artificial Intelligence.
+Interested in agentic systems
 
--   📷 &nbsp; Strong interest in Computer Vision
--   🧠 &nbsp; Exploring Agentic Reasoning and Workflows
 -   ☁️ &nbsp; Certified AWS Solutions Architect and Terraform Associate
--   🌐 &nbsp; Full-stack web using Next.js and Node.js
 -   💻 &nbsp; Likes to work with Python and TypeScript
--   ⌨️ &nbsp; Arch Linux User
 -   🗻 &nbsp; Enjoys mountaineering and hiking
 
-
-## Work Experience
--   Jan 2025 — May 2025: ML Engineer at Fling.AI
--   Jun 2024 — Dec 2024: Software Engineer Intern at Fling.AI
--   Sep 2019 — Feb 2020: Software Engineer Intern at Singtel
--   Aug 2020 — Oct 2020: Instructor for Code in the Community
 
 ## Toolbox
 
